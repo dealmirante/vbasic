@@ -1,0 +1,6 @@
+Línea 164: la clase FPSpread.vaSpread del control sprLoc no era una clase de control cargada.
+Línea 190: la clase FPSpread.vaSpread del control sprDia no era una clase de control cargada.
+Línea 304: la clase FPSpread.vaSpread del control sprRubro no era una clase de control cargada.
+Línea 167: el nombre de la propiedad OleObjectBlob de sprLoc no es válido.
+Línea 193: el nombre de la propiedad OleObjectBlob de sprDia no es válido.
+Línea 307: el nombre de la propiedad OleObjectBlob de sprRubro no es válido.

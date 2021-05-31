@@ -1,0 +1,4 @@
+Línea 41: la clase FPSpread.vaSpread del control sprLegajo no era una clase de control cargada.
+Línea 49: la clase FPSpread.vaSpread del control sprTicket no era una clase de control cargada.
+Línea 44: el nombre de la propiedad OleObjectBlob de sprLegajo no es válido.
+Línea 52: el nombre de la propiedad OleObjectBlob de sprTicket no es válido.

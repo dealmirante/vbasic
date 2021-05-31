@@ -1,0 +1,7 @@
+Línea 170: la clase Crystal.CrystalReport del control rptControl no era una clase de control cargada.
+Línea 262: la clase FPSpread.vaSpread del control spr no era una clase de control cargada.
+Línea 173: el nombre de la propiedad _ExtentX de rptControl no es válido.
+Línea 174: el nombre de la propiedad _ExtentY de rptControl no es válido.
+Línea 175: el nombre de la propiedad _Version de rptControl no es válido.
+Línea 176: el nombre de la propiedad PrintFileLinesPerPage de rptControl no es válido.
+Línea 265: el nombre de la propiedad OleObjectBlob de spr no es válido.
